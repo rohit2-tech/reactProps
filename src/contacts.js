@@ -1,24 +1,21 @@
 const contacts = [
   {
-    name: "Beyonce",
-    imgURL:
-      "https://blackhistorywall.files.wordpress.com/2010/02/picture-device-independent-bitmap-119.jpg",
+    name: "Gojo",
+    imgURL: "https://images6.alphacoders.com/119/thumbbig-1199914.webp",
     phone: "+123 456 789",
-    email: "b@beyonce.com"
+    email: "gojo@HonoredOne.com"
   },
   {
-    name: "Jack Bauer",
-    imgURL:
-      "https://pbs.twimg.com/profile_images/625247595825246208/X3XLea04_400x400.jpg",
+    name: "sukuna",
+    imgURL: "https://images6.alphacoders.com/114/thumbbig-1143204.webp",
     phone: "+987 654 321",
-    email: "jack@nowhere.com"
+    email: "sukuna@KingOfCurses.com"
   },
   {
-    name: "Chuck Norris",
-    imgURL:
-      "https://i.pinimg.com/originals/e3/94/47/e39447de921955826b1e498ccf9a39af.png",
+    name: "Sasuke Uchiha",
+    imgURL: "https://images6.alphacoders.com/606/thumbbig-606239.webp",
     phone: "+918 372 574",
-    email: "gmail@chucknorris.com"
+    email: "sasuke@RinneganWielder.com"
   }
 ];
 
